@@ -3,7 +3,6 @@ size(300,300);
 
 //shadow
 noStroke();
-//strokeweight(7)
 //strokeweight(5)
 fill(171,169,171);
 ellipse(45,225,225,150);
